@@ -5,28 +5,32 @@
       "ticker": "GOOG",
       "name": "Google",
       "type": "Tech",
-      "price": 1194.8
+      "price": 1194.8,
+      "isInPortfolio": true
     },
     {
       "id": 2,
       "ticker": "FB",
       "name": "Facebook",
       "type": "Tech",
-      "price": 168.85
+      "price": 168.85,
+      "isInPortfolio": true
     },
     {
       "id": 3,
       "ticker": "TWTR",
       "name": "Twitter",
       "type": "Tech",
-      "price": 29.41
+      "price": 29.41,
+      "isInPortfolio": false
     },
     {
       "id": 4,
       "ticker": "AMZN",
       "name": "Amazon",
       "type": "Tech",
-      "price": 2013.04
+      "price": 2013.04,
+      "isInPortfolio": true
     },
     {
       "id": 5,
